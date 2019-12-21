@@ -10,5 +10,5 @@
   </source>
   <source path='client'/>
   <source path='shared'/>
-  	<add-linker name="sso" />
+  	<!-- add-linker name="sso" / -->
 </module>
